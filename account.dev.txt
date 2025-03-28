@@ -1,0 +1,75 @@
+[
+    {
+        "key": "datr",
+        "value": "cu3eZzyELOzs6Bz6tROP9le2",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-03-22T20:56:12.349Z",
+        "lastAccessed": "2025-03-22T20:56:12.350Z"
+    },
+    {
+        "key": "sb",
+        "value": "cu3eZ_KE-bXEWjfvo647nY7d",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-03-22T20:56:12.350Z",
+        "lastAccessed": "2025-03-22T20:56:12.350Z"
+    },
+    {
+        "key": "wd",
+        "value": "360x674",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-03-22T20:56:12.350Z",
+        "lastAccessed": "2025-03-22T20:56:12.350Z"
+    },
+    {
+        "key": "c_user",
+        "value": "100085096696396",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-03-22T20:56:12.350Z",
+        "lastAccessed": "2025-03-22T20:56:12.350Z"
+    },
+    {
+        "key": "fr",
+        "value": "0F2FIVIVlBbBDrTvv.AWUCysduHnCG3ui-8VzqA-UAvw8TFvGW-ZCT4w.Bn3u1y..AAA.0.0.Bn3u3u.AWVmsx7HoYM",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-03-22T20:56:12.350Z",
+        "lastAccessed": "2025-03-22T20:56:12.350Z"
+    },
+    {
+        "key": "xs",
+        "value": "2%3AcYlm8vAEX67qCA%3A2%3A1742663151%3A-1%3A7264",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-03-22T20:56:12.350Z",
+        "lastAccessed": "2025-03-22T20:56:12.350Z"
+    },
+    {
+        "key": "locale",
+        "value": "fr_FR",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-03-22T20:56:12.350Z",
+        "lastAccessed": "2025-03-22T20:56:12.350Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-03-22T20:56:12.350Z",
+        "lastAccessed": "2025-03-22T20:56:12.350Z"
+    },
+    {
+        "key": "ps_n",
