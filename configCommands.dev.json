@@ -7,12 +7,12 @@
 	"envCommands": {
 		"daily": {
 			"rewardDay1": {
-				"coin": 100,
-				"exp": 10
+				"coin": 10000,
+				"exp": 100
 			}
 		},
 		"notification": {
-			"delayPerGroup": 250
+			"delayPerGroup": 500
 		},
 		"rank": {
 			"deltaNext": 5
@@ -21,7 +21,7 @@
 			"deltaNext": 5
 		},
 		"appstore": {
-			"limitResult": 3
+			"limitResult": 10
 		}
 	},
 	"envEvents": {
