@@ -18,8 +18,7 @@
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": [
-       "100046072403427" ]
+	"adminBot": ["100046072403427"]
 
 	"whiteListMode": {
 		"enable": false,
@@ -111,7 +110,7 @@
 			"webhookUrl": "",
 			"note": "Can send notifications to many webhookUrl, separate by comma or space, example: \"https://discord.com/api/webhooks/123456789/123456789 https://discord.com/api/webhooks/987654321/987654321\" (without backslash)"
 		}
-	}?
+	},
 	"hideNotiMessage": {
 		"commandNotFound": false,
 		"adminOnly": false,
@@ -144,7 +143,7 @@
 		"autoReconnect": false,
 		"notes": "Document here: https://github.com/ntkhang03/fb-chat-api/blob/master/DOCS.md#apisetoptionsoptions "
 	}
-}		"enable": true,
+},		"enable": true,
 		"timeInterval": 180,
 		"url": "",
 		"notes": "the value of timeInterval is seconds, url is the url you want to send the request to (automatically detected for hosting glitch or replit)"
@@ -171,7 +170,7 @@
 			"enable": false,
 			"emailGetNoti": "",
 			"note": "Bot will use gmailAccount to send email to emailGetNoti, can send notifications to many email, separate by comma or space, example: \"example1@gmail.com example2@gmail.com\" (without backslash)"
-		}?
+		},
 		"telegram": {
 			"enable": false,
 			"botToken": "",
